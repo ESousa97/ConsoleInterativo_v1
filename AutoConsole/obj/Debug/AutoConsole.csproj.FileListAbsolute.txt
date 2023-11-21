@@ -1,0 +1,6 @@
+C:\Users\sousa\source\repos\AutoConsole\bin\Debug\AutoConsole.exe
+C:\Users\sousa\source\repos\AutoConsole\bin\Debug\AutoConsole.pdb
+C:\Users\sousa\source\repos\AutoConsole\obj\Debug\AutoConsole.csproj.AssemblyReference.cache
+C:\Users\sousa\source\repos\AutoConsole\obj\Debug\AutoConsole.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\AutoConsole\obj\Debug\AutoConsole.exe
+C:\Users\sousa\source\repos\AutoConsole\obj\Debug\AutoConsole.pdb

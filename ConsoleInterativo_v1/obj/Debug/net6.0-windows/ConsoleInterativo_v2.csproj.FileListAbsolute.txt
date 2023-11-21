@@ -1,0 +1,6 @@
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\CustomMessageBox.baml
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\CustomMessageBox.g.cs
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\ConsoleInterativo_v2_MarkupCompile.cache
+C:\Users\sousa\source\repos\ConsoleInterativo_v1\obj\Debug\net6.0-windows\ConsoleInterativo_v2_MarkupCompile.lref
